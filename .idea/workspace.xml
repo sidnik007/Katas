@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53e82407-2a91-425b-8e34-5741def81295" name="Default" comment="First Commit">
+      <change type="DELETED" beforePath="/etc/alternatives/x-session-manager.1.gz" afterPath="" />
+      <change type="DELETED" beforePath="/etc/alternatives/x-window-manager" afterPath="" />
+      <change type="DELETED" beforePath="/etc/alternatives/x86_64-linux-gnu_mirclient8driver_conf" afterPath="" />
+      <change type="DELETED" beforePath="/etc/cups/cupsd-systemd-listen.conf" afterPath="" />
+      <change type="DELETED" beforePath="/etc/dbus-1/system.d/nm-dhcp-client.conf" afterPath="" />
+      <change type="DELETED" beforePath="/etc/dbus-1/system.d/org.freedesktop.systemd-shim.conf" afterPath="" />
+      <change type="DELETED" beforePath="/etc/default/whoopsie" afterPath="" />
+      <change type="DELETED" beforePath="/etc/fonts/conf.avail/65-droid-sans-fallback.conf" afterPath="" />
+      <change type="DELETED" beforePath="/etc/fonts/conf.d/90-ttf-punjabi-fonts.conf" afterPath="" />
+      <change type="DELETED" beforePath="/etc/init/startpar-bridge.conf" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ld.so.conf.d/x86_64-linux-gnu_mirclient8driver.conf" afterPath="" />
+      <change type="DELETED" beforePath="/etc/mysql/conf.d/.keepme" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc1.d/S01pppd-dns" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S01pppd-dns" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S02acpid" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S02anacron" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S02cgproxy" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S02cron" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S02dbus" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S02irqbalance" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S02kerneloops" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S02rsync" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S02ssh" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S02thermald" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S03avahi-daemon" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S03bluetooth" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S03lightdm" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S04openvpn" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S05cups" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S05cups-browsed" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S05pulseaudio" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S05saned" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S06grub-common" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S06ondemand" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc2.d/S06rc.local" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S01pppd-dns" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S02acpid" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S02anacron" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S02cgproxy" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S02cron" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S02dbus" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S02irqbalance" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S02kerneloops" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S02rsync" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S02ssh" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S02thermald" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S03avahi-daemon" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S03bluetooth" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S03lightdm" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S04openvpn" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S05cups" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S05cups-browsed" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S05pulseaudio" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S05saned" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S06grub-common" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S06ondemand" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc3.d/S06rc.local" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S01pppd-dns" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S02acpid" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S02anacron" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S02cgproxy" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S02cron" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S02dbus" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S02irqbalance" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S02kerneloops" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S02rsync" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S02ssh" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S02thermald" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S03avahi-daemon" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S03bluetooth" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S03lightdm" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S04openvpn" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S05cups" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S05cups-browsed" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S05pulseaudio" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S05saned" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S06grub-common" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S06ondemand" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc4.d/S06rc.local" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S01pppd-dns" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S02acpid" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S02anacron" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S02cgproxy" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S02cron" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S02dbus" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S02irqbalance" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S02kerneloops" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S02rsync" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S02ssh" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S02thermald" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S03avahi-daemon" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S03bluetooth" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S03lightdm" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S04openvpn" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S05cups" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S05cups-browsed" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S05pulseaudio" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S05saned" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S06grub-common" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S06ondemand" afterPath="" />
+      <change type="DELETED" beforePath="/etc/rc5.d/S06rc.local" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/0c31d5ce.0" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/20d096ba.0" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/57a8fcdc.0" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/5f267794.0" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/7d3cd826.0" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/9af9f759.0" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/9b353c9a.0" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/Entrust.net_Secure_Server_CA.pem" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/RSA_Root_Certificate_1.pem" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/TDC_Internet_Root_CA.pem" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/ValiCert_Class_1_VA.pem" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/ValiCert_Class_2_VA.pem" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/d537fba6.0" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/ed524cf5.0" afterPath="" />
+      <change type="DELETED" beforePath="/etc/ssl/certs/f4996e82.0" afterPath="" />
+      <change type="DELETED" beforePath="/etc/systemd/system/cups.socket.d/cupsd-listen.conf" afterPath="" />
+      <change type="DELETED" beforePath="/etc/systemd/system/dbus-org.freedesktop.NetworkManager.service" afterPath="" />
+      <change type="DELETED" beforePath="/etc/xdg/autostart/pulseaudio-kde.desktop" afterPath="" />
+      <change type="DELETED" beforePath="/etc/xul-ext/ubufox.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="/etc/ufw/after.rules" afterPath="/etc/ufw/after.rules" />
+      <change type="MODIFICATION" beforePath="/etc/ufw/after6.rules" afterPath="/etc/ufw/after6.rules" />
+      <change type="MODIFICATION" beforePath="/etc/alternatives/awk.1.gz" afterPath="/etc/alternatives/awk.1.gz" />
+      <change type="MODIFICATION" beforePath="/etc/alternatives/awk" afterPath="/etc/alternatives/awk" />
+      <change type="MODIFICATION" beforePath="/etc/ufw/before.rules" afterPath="/etc/ufw/before.rules" />
+      <change type="MODIFICATION" beforePath="/etc/ufw/before6.rules" afterPath="/etc/ufw/before6.rules" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/java/cacerts" afterPath="/etc/ssl/certs/java/cacerts" />
+      <change type="MODIFICATION" beforePath="/etc/console-setup/cached.kmap.gz" afterPath="/etc/console-setup/cached.kmap.gz" />
+      <change type="MODIFICATION" beforePath="/etc/ppp/chap-secrets" afterPath="/etc/ppp/chap-secrets" />
+      <change type="MODIFICATION" beforePath="/etc/console-setup/compose.ISO-8859-1.inc" afterPath="/etc/console-setup/compose.ISO-8859-1.inc" />
+      <change type="MODIFICATION" beforePath="/etc/console-setup/compose.ISO-8859-13.inc" afterPath="/etc/console-setup/compose.ISO-8859-13.inc" />
+      <change type="MODIFICATION" beforePath="/etc/console-setup/compose.ISO-8859-14.inc" afterPath="/etc/console-setup/compose.ISO-8859-14.inc" />
+      <change type="MODIFICATION" beforePath="/etc/console-setup/compose.ISO-8859-15.inc" afterPath="/etc/console-setup/compose.ISO-8859-15.inc" />
+      <change type="MODIFICATION" beforePath="/etc/console-setup/compose.ISO-8859-2.inc" afterPath="/etc/console-setup/compose.ISO-8859-2.inc" />
+      <change type="MODIFICATION" beforePath="/etc/console-setup/compose.ISO-8859-3.inc" afterPath="/etc/console-setup/compose.ISO-8859-3.inc" />
+      <change type="MODIFICATION" beforePath="/etc/console-setup/compose.ISO-8859-4.inc" afterPath="/etc/console-setup/compose.ISO-8859-4.inc" />
+      <change type="MODIFICATION" beforePath="/etc/console-setup/compose.ISO-8859-7.inc" afterPath="/etc/console-setup/compose.ISO-8859-7.inc" />
+      <change type="MODIFICATION" beforePath="/etc/console-setup/compose.ISO-8859-9.inc" afterPath="/etc/console-setup/compose.ISO-8859-9.inc" />
+      <change type="MODIFICATION" beforePath="/etc/NetworkManager/system-connections/dlink" afterPath="/etc/NetworkManager/system-connections/dlink" />
+      <change type="MODIFICATION" beforePath="/etc/alternatives/ghostscript-current" afterPath="/etc/alternatives/ghostscript-current" />
+      <change type="MODIFICATION" beforePath="/etc/group-" afterPath="/etc/group-" />
+      <change type="MODIFICATION" beforePath="/etc/gshadow-" afterPath="/etc/gshadow-" />
+      <change type="MODIFICATION" beforePath="/etc/gshadow" afterPath="/etc/gshadow" />
+      <change type="MODIFICATION" beforePath="/etc/ld.so.cache" afterPath="/etc/ld.so.cache" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/cache/lightdm-guest-session" afterPath="/etc/apparmor.d/cache/lightdm-guest-session" />
+      <change type="MODIFICATION" beforePath="/etc/localtime" afterPath="/etc/localtime" />
+      <change type="MODIFICATION" beforePath="/etc/mtab" afterPath="/etc/mtab" />
+      <change type="MODIFICATION" beforePath="/etc/alternatives/nawk.1.gz" afterPath="/etc/alternatives/nawk.1.gz" />
+      <change type="MODIFICATION" beforePath="/etc/alternatives/nawk" afterPath="/etc/alternatives/nawk" />
+      <change type="MODIFICATION" beforePath="/etc/ppp/pap-secrets" afterPath="/etc/ppp/pap-secrets" />
+      <change type="MODIFICATION" beforePath="/etc/passwd-" afterPath="/etc/passwd-" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/cache/sbin.dhclient" afterPath="/etc/apparmor.d/cache/sbin.dhclient" />
+      <change type="MODIFICATION" beforePath="/etc/shadow-" afterPath="/etc/shadow-" />
+      <change type="MODIFICATION" beforePath="/etc/shadow" afterPath="/etc/shadow" />
+      <change type="MODIFICATION" beforePath="/etc/subgid-" afterPath="/etc/subgid-" />
+      <change type="MODIFICATION" beforePath="/etc/subuid-" afterPath="/etc/subuid-" />
+      <change type="MODIFICATION" beforePath="/etc/sudoers" afterPath="/etc/sudoers" />
+      <change type="MODIFICATION" beforePath="/etc/apt/trusted.gpg" afterPath="/etc/apt/trusted.gpg" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/cache/usr.lib.telepathy" afterPath="/etc/apparmor.d/cache/usr.lib.telepathy" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/cache/usr.sbin.cups-browsed" afterPath="/etc/apparmor.d/cache/usr.sbin.cups-browsed" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/cache/usr.sbin.cupsd" afterPath="/etc/apparmor.d/cache/usr.sbin.cupsd" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/cache/usr.sbin.mysqld-akonadi" afterPath="/etc/apparmor.d/cache/usr.sbin.mysqld-akonadi" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/cache/usr.sbin.tcpdump" afterPath="/etc/apparmor.d/cache/usr.sbin.tcpdump" />
+      <change type="MODIFICATION" beforePath="/etc/alternatives/x86_64-linux-gnu_xorg_extra_modules" afterPath="/etc/alternatives/x86_64-linux-gnu_xorg_extra_modules" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/.depend.boot" afterPath="/etc/init.d/.depend.boot" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/.depend.start" afterPath="/etc/init.d/.depend.start" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/.depend.stop" afterPath="/etc/init.d/.depend.stop" />
+      <change type="MODIFICATION" beforePath="/etc/network/if-up.d/000resolvconf" afterPath="/etc/network/if-up.d/000resolvconf" />
+      <change type="MODIFICATION" beforePath="/etc/ppp/ip-down.d/000resolvconf" afterPath="/etc/ppp/ip-down.d/000resolvconf" />
+      <change type="MODIFICATION" beforePath="/etc/ppp/ip-up.d/000resolvconf" afterPath="/etc/ppp/ip-up.d/000resolvconf" />
+      <change type="MODIFICATION" beforePath="/etc/grub.d/00_header" afterPath="/etc/grub.d/00_header" />
+      <change type="MODIFICATION" beforePath="/etc/apt/apt.conf.d/01autoremove-kernels" afterPath="/etc/apt/apt.conf.d/01autoremove-kernels" />
+      <change type="MODIFICATION" beforePath="/etc/NetworkManager/dispatcher.d/01ifupdown" afterPath="/etc/NetworkManager/dispatcher.d/01ifupdown" />
+      <change type="MODIFICATION" beforePath="/etc/grub.d/10_linux" afterPath="/etc/grub.d/10_linux" />
+      <change type="MODIFICATION" beforePath="/etc/grub.d/20_linux_xen" afterPath="/etc/grub.d/20_linux_xen" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/219d9499.0" afterPath="/etc/ssl/certs/219d9499.0" />
+      <change type="MODIFICATION" beforePath="/etc/fonts/conf.avail/30-metric-aliases.conf" afterPath="/etc/fonts/conf.avail/30-metric-aliases.conf" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/33815e15.0" afterPath="/etc/ssl/certs/33815e15.0" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/33815e15.1" afterPath="/etc/ssl/certs/33815e15.1" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/415660c1.0" afterPath="/etc/ssl/certs/415660c1.0" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/415660c1.1" afterPath="/etc/ssl/certs/415660c1.1" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/55a10908.0" afterPath="/etc/ssl/certs/55a10908.0" />
+      <change type="MODIFICATION" beforePath="/etc/fonts/conf.d/65-droid-sans-fallback.conf" afterPath="/etc/fonts/conf.d/65-droid-sans-fallback.conf" />
+      <change type="MODIFICATION" beforePath="/etc/fonts/conf.avail/65-fonts-takao-pgothic.conf" afterPath="/etc/fonts/conf.avail/65-fonts-takao-pgothic.conf" />
+      <change type="MODIFICATION" beforePath="/etc/X11/Xsession.d/70im-config_launch" afterPath="/etc/X11/Xsession.d/70im-config_launch" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/7651b327.0" afterPath="/etc/ssl/certs/7651b327.0" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/7651b327.1" afterPath="/etc/ssl/certs/7651b327.1" />
+      <change type="MODIFICATION" beforePath="/etc/X11/Xsession.d/99upstart" afterPath="/etc/X11/Xsession.d/99upstart" />
+      <change type="MODIFICATION" beforePath="/etc/NetworkManager/NetworkManager.conf" afterPath="/etc/NetworkManager/NetworkManager.conf" />
+      <change type="MODIFICATION" beforePath="/etc/UPower/UPower.conf" afterPath="/etc/UPower/UPower.conf" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/abstractions/X" afterPath="/etc/apparmor.d/abstractions/X" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/ae8153b9.0" afterPath="/etc/ssl/certs/ae8153b9.0" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/ae8153b9.1" afterPath="/etc/ssl/certs/ae8153b9.1" />
+      <change type="MODIFICATION" beforePath="/etc/init/apparmor.conf" afterPath="/etc/init/apparmor.conf" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/apparmor" afterPath="/etc/init.d/apparmor" />
+      <change type="MODIFICATION" beforePath="/etc/kernel/postinst.d/apt-auto-removal" afterPath="/etc/kernel/postinst.d/apt-auto-removal" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/abstractions/base" afterPath="/etc/apparmor.d/abstractions/base" />
+      <change type="MODIFICATION" beforePath="/etc/bash.bashrc" afterPath="/etc/bash.bashrc" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/bcdd5959.0" afterPath="/etc/ssl/certs/bcdd5959.0" />
+      <change type="MODIFICATION" beforePath="/etc/systemd/bootchart.conf" afterPath="/etc/systemd/bootchart.conf" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/bootmisc.sh" afterPath="/etc/init.d/bootmisc.sh" />
+      <change type="MODIFICATION" beforePath="/etc/brltty.conf" afterPath="/etc/brltty.conf" />
+      <change type="MODIFICATION" beforePath="/etc/ca-certificates.conf" afterPath="/etc/ca-certificates.conf" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/ca-certificates.crt" afterPath="/etc/ssl/certs/ca-certificates.crt" />
+      <change type="MODIFICATION" beforePath="/etc/xml/catalog.old" afterPath="/etc/xml/catalog.old" />
+      <change type="MODIFICATION" beforePath="/etc/xml/catalog" afterPath="/etc/xml/catalog" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/checkfs.sh" afterPath="/etc/init.d/checkfs.sh" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/checkroot-bootclean.sh" afterPath="/etc/init.d/checkroot-bootclean.sh" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/checkroot.sh" afterPath="/etc/init.d/checkroot.sh" />
+      <change type="MODIFICATION" beforePath="/etc/pulse/client.conf" afterPath="/etc/pulse/client.conf" />
+      <change type="MODIFICATION" beforePath="/etc/console-setup/compose.VISCII.inc" afterPath="/etc/console-setup/compose.VISCII.inc" />
+      <change type="MODIFICATION" beforePath="/etc/default/console-setup" afterPath="/etc/default/console-setup" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/console-setup" afterPath="/etc/init.d/console-setup" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/cron" afterPath="/etc/init.d/cron" />
+      <change type="MODIFICATION" beforePath="/etc/cups/cups-browsed.conf" afterPath="/etc/cups/cups-browsed.conf" />
+      <change type="MODIFICATION" beforePath="/etc/cups/cups-files.conf" afterPath="/etc/cups/cups-files.conf" />
+      <change type="MODIFICATION" beforePath="/etc/cups/cupsd.conf" afterPath="/etc/cups/cupsd.conf" />
+      <change type="MODIFICATION" beforePath="/etc/pulse/daemon.conf" afterPath="/etc/pulse/daemon.conf" />
+      <change type="MODIFICATION" beforePath="/etc/init/dbus.conf" afterPath="/etc/init/dbus.conf" />
+      <change type="MODIFICATION" beforePath="/etc/dhcp/dhclient-enter-hooks.d/debug" afterPath="/etc/dhcp/dhclient-enter-hooks.d/debug" />
+      <change type="MODIFICATION" beforePath="/etc/dhcp/dhclient-exit-hooks.d/debug" afterPath="/etc/dhcp/dhclient-exit-hooks.d/debug" />
+      <change type="MODIFICATION" beforePath="/etc/X11/default-display-manager" afterPath="/etc/X11/default-display-manager" />
+      <change type="MODIFICATION" beforePath="/etc/pulse/default.pa" afterPath="/etc/pulse/default.pa" />
+      <change type="MODIFICATION" beforePath="/etc/dhcp/dhclient.conf" afterPath="/etc/dhcp/dhclient.conf" />
+      <change type="MODIFICATION" beforePath="/etc/systemd/system/display-manager.service" afterPath="/etc/systemd/system/display-manager.service" />
+      <change type="MODIFICATION" beforePath="/etc/sane.d/dll.conf" afterPath="/etc/sane.d/dll.conf" />
+      <change type="MODIFICATION" beforePath="/etc/drirc" afterPath="/etc/drirc" />
+      <change type="MODIFICATION" beforePath="/etc/network/if-up.d/ethtool" afterPath="/etc/network/if-up.d/ethtool" />
+      <change type="MODIFICATION" beforePath="/etc/ssl/certs/f081611a.0" afterPath="/etc/ssl/certs/f081611a.0" />
+      <change type="MODIFICATION" beforePath="/etc/sane.d/genesys.conf" afterPath="/etc/sane.d/genesys.conf" />
+      <change type="MODIFICATION" beforePath="/etc/xdg/autostart/gnome-keyring-gpg.desktop" afterPath="/etc/xdg/autostart/gnome-keyring-gpg.desktop" />
+      <change type="MODIFICATION" beforePath="/etc/xdg/autostart/gnome-keyring-pkcs11.desktop" afterPath="/etc/xdg/autostart/gnome-keyring-pkcs11.desktop" />
+      <change type="MODIFICATION" beforePath="/etc/xdg/autostart/gnome-keyring-secrets.desktop" afterPath="/etc/xdg/autostart/gnome-keyring-secrets.desktop" />
+      <change type="MODIFICATION" beforePath="/etc/xdg/autostart/gnome-keyring-ssh.desktop" afterPath="/etc/xdg/autostart/gnome-keyring-ssh.desktop" />
+      <change type="MODIFICATION" beforePath="/etc/group" afterPath="/etc/group" />
+      <change type="MODIFICATION" beforePath="/etc/default/grub" afterPath="/etc/default/grub" />
+      <change type="MODIFICATION" beforePath="/etc/hp/hplip.conf" afterPath="/etc/hp/hplip.conf" />
+      <change type="MODIFICATION" beforePath="/etc/default/im-config" afterPath="/etc/default/im-config" />
+      <change type="MODIFICATION" beforePath="/etc/resolvconf/interface-order" afterPath="/etc/resolvconf/interface-order" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/irqbalance" afterPath="/etc/init.d/irqbalance" />
+      <change type="MODIFICATION" beforePath="/etc/issue.net" afterPath="/etc/issue.net" />
+      <change type="MODIFICATION" beforePath="/etc/issue" afterPath="/etc/issue" />
+      <change type="MODIFICATION" beforePath="/etc/java-7-openjdk/security/java.security" afterPath="/etc/java-7-openjdk/security/java.security" />
+      <change type="MODIFICATION" beforePath="/etc/systemd/journald.conf" afterPath="/etc/systemd/journald.conf" />
+      <change type="MODIFICATION" beforePath="/etc/default/keyboard" afterPath="/etc/default/keyboard" />
+      <change type="MODIFICATION" beforePath="/etc/libao.conf" afterPath="/etc/libao.conf" />
+      <change type="MODIFICATION" beforePath="/etc/resolvconf/update.d/libc" afterPath="/etc/resolvconf/update.d/libc" />
+      <change type="MODIFICATION" beforePath="/etc/bash_completion.d/libreoffice.sh" afterPath="/etc/bash_completion.d/libreoffice.sh" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/abstractions/lightdm" afterPath="/etc/apparmor.d/abstractions/lightdm" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/abstractions/lightdm_chromium-browser" afterPath="/etc/apparmor.d/abstractions/lightdm_chromium-browser" />
+      <change type="MODIFICATION" beforePath="/etc/systemd/logind.conf" afterPath="/etc/systemd/logind.conf" />
+      <change type="MODIFICATION" beforePath="/etc/lsb-release" afterPath="/etc/lsb-release" />
+      <change type="MODIFICATION" beforePath="/etc/mailcap" afterPath="/etc/mailcap" />
+      <change type="MODIFICATION" beforePath="/etc/bluetooth/main.conf" afterPath="/etc/bluetooth/main.conf" />
+      <change type="MODIFICATION" beforePath="/etc/groff/man.local" afterPath="/etc/groff/man.local" />
+      <change type="MODIFICATION" beforePath="/etc/groff/mdoc.local" afterPath="/etc/groff/mdoc.local" />
+      <change type="MODIFICATION" beforePath="/etc/mime.types" afterPath="/etc/mime.types" />
+      <change type="MODIFICATION" beforePath="/etc/modules" afterPath="/etc/modules" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/mountall-bootclean.sh" afterPath="/etc/init.d/mountall-bootclean.sh" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/mountall.sh" afterPath="/etc/init.d/mountall.sh" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/mountdevsubfs.sh" afterPath="/etc/init.d/mountdevsubfs.sh" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/mountkernfs.sh" afterPath="/etc/init.d/mountkernfs.sh" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/mountnfs-bootclean.sh" afterPath="/etc/init.d/mountnfs-bootclean.sh" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/mountnfs.sh" afterPath="/etc/init.d/mountnfs.sh" />
+      <change type="MODIFICATION" beforePath="/etc/mysql/my.cnf" afterPath="/etc/mysql/my.cnf" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/abstractions/nameservice" afterPath="/etc/apparmor.d/abstractions/nameservice" />
+      <change type="MODIFICATION" beforePath="/etc/NetworkManager/VPN/nm-openvpn-service.name" afterPath="/etc/NetworkManager/VPN/nm-openvpn-service.name" />
+      <change type="MODIFICATION" beforePath="/etc/NetworkManager/VPN/nm-pptp-service.name" afterPath="/etc/NetworkManager/VPN/nm-pptp-service.name" />
+      <change type="MODIFICATION" beforePath="/etc/default/openvpn" afterPath="/etc/default/openvpn" />
+      <change type="MODIFICATION" beforePath="/etc/ppp/options" afterPath="/etc/ppp/options" />
+      <change type="MODIFICATION" beforePath="/etc/dbus-1/system.d/org.freedesktop.ModemManager1.conf" afterPath="/etc/dbus-1/system.d/org.freedesktop.ModemManager1.conf" />
+      <change type="MODIFICATION" beforePath="/etc/dbus-1/system.d/org.freedesktop.NetworkManager.conf" afterPath="/etc/dbus-1/system.d/org.freedesktop.NetworkManager.conf" />
+      <change type="MODIFICATION" beforePath="/etc/dbus-1/system.d/org.freedesktop.UPower.conf" afterPath="/etc/dbus-1/system.d/org.freedesktop.UPower.conf" />
+      <change type="MODIFICATION" beforePath="/etc/dbus-1/system.d/org.freedesktop.login1.conf" afterPath="/etc/dbus-1/system.d/org.freedesktop.login1.conf" />
+      <change type="MODIFICATION" beforePath="/etc/dbus-1/system.d/org.freedesktop.machine1.conf" afterPath="/etc/dbus-1/system.d/org.freedesktop.machine1.conf" />
+      <change type="MODIFICATION" beforePath="/etc/dbus-1/system.d/org.freedesktop.systemd1.conf" afterPath="/etc/dbus-1/system.d/org.freedesktop.systemd1.conf" />
+      <change type="MODIFICATION" beforePath="/etc/os-release" afterPath="/etc/os-release" />
+      <change type="MODIFICATION" beforePath="/etc/passwd" afterPath="/etc/passwd" />
+      <change type="MODIFICATION" beforePath="/etc/xdg/autostart/polkit-kde-authentication-agent-1.desktop" afterPath="/etc/xdg/autostart/polkit-kde-authentication-agent-1.desktop" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/pppd-dns" afterPath="/etc/init.d/pppd-dns" />
+      <change type="MODIFICATION" beforePath="/etc/dbus-1/system.d/pulseaudio-system.conf" afterPath="/etc/dbus-1/system.d/pulseaudio-system.conf" />
+      <change type="MODIFICATION" beforePath="/etc/xdg/autostart/pulseaudio.desktop" afterPath="/etc/xdg/autostart/pulseaudio.desktop" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/rc" afterPath="/etc/init.d/rc" />
+      <change type="MODIFICATION" beforePath="/etc/console-setup/remap.inc" afterPath="/etc/console-setup/remap.inc" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/resolvconf" afterPath="/etc/init.d/resolvconf" />
+      <change type="MODIFICATION" beforePath="/etc/network/if-down.d/resolvconf" afterPath="/etc/network/if-down.d/resolvconf" />
+      <change type="MODIFICATION" beforePath="/etc/init/rfkill-restore.conf" afterPath="/etc/init/rfkill-restore.conf" />
+      <change type="MODIFICATION" beforePath="/etc/init/rfkill-store.conf" afterPath="/etc/init/rfkill-store.conf" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/saned" afterPath="/etc/init.d/saned" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/sbin.dhclient" afterPath="/etc/apparmor.d/sbin.dhclient" />
+      <change type="MODIFICATION" beforePath="/etc/services" afterPath="/etc/services" />
+      <change type="MODIFICATION" beforePath="/etc/gtk-3.0/settings.ini" afterPath="/etc/gtk-3.0/settings.ini" />
+      <change type="MODIFICATION" beforePath="/etc/xml/sgml-data.xml.old" afterPath="/etc/xml/sgml-data.xml.old" />
+      <change type="MODIFICATION" beforePath="/etc/xml/sgml-data.xml" afterPath="/etc/xml/sgml-data.xml" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/skeleton" afterPath="/etc/init.d/skeleton" />
+      <change type="MODIFICATION" beforePath="/etc/cups/snmp.conf" afterPath="/etc/cups/snmp.conf" />
+      <change type="MODIFICATION" beforePath="/etc/apt/sources.list" afterPath="/etc/apt/sources.list" />
+      <change type="MODIFICATION" beforePath="/etc/subgid" afterPath="/etc/subgid" />
+      <change type="MODIFICATION" beforePath="/etc/subuid" afterPath="/etc/subuid" />
+      <change type="MODIFICATION" beforePath="/etc/pam.d/sudo" afterPath="/etc/pam.d/sudo" />
+      <change type="MODIFICATION" beforePath="/etc/systemd/system.conf" afterPath="/etc/systemd/system.conf" />
+      <change type="MODIFICATION" beforePath="/etc/pulse/system.pa" afterPath="/etc/pulse/system.pa" />
+      <change type="MODIFICATION" beforePath="/etc/pam.d/systemd-user" afterPath="/etc/pam.d/systemd-user" />
+      <change type="MODIFICATION" beforePath="/etc/thermald/thermal-conf.xml" afterPath="/etc/thermald/thermal-conf.xml" />
+      <change type="MODIFICATION" beforePath="/etc/init/thermald.conf" afterPath="/etc/init/thermald.conf" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/udev-finish" afterPath="/etc/init.d/udev-finish" />
+      <change type="MODIFICATION" beforePath="/etc/udev/udev.conf" afterPath="/etc/udev/udev.conf" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/udev" afterPath="/etc/init.d/udev" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/umountfs" afterPath="/etc/init.d/umountfs" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/umountnfs.sh" afterPath="/etc/init.d/umountnfs.sh" />
+      <change type="MODIFICATION" beforePath="/etc/logrotate.d/unattended-upgrades" afterPath="/etc/logrotate.d/unattended-upgrades" />
+      <change type="MODIFICATION" beforePath="/etc/updatedb.conf" afterPath="/etc/updatedb.conf" />
+      <change type="MODIFICATION" beforePath="/etc/upstart-xsessions" afterPath="/etc/upstart-xsessions" />
+      <change type="MODIFICATION" beforePath="/etc/cron.daily/upstart" afterPath="/etc/cron.daily/upstart" />
+      <change type="MODIFICATION" beforePath="/etc/systemd/user.conf" afterPath="/etc/systemd/user.conf" />
+      <change type="MODIFICATION" beforePath="/etc/apparmor.d/usr.sbin.cupsd" afterPath="/etc/apparmor.d/usr.sbin.cupsd" />
+      <change type="MODIFICATION" beforePath="/etc/apt/sources.list.d/webupd8team-ubuntu-java-utopic.list" afterPath="/etc/apt/sources.list.d/webupd8team-ubuntu-java-utopic.list" />
+      <change type="MODIFICATION" beforePath="/etc/init/whoopsie.conf" afterPath="/etc/init/whoopsie.conf" />
+      <change type="MODIFICATION" beforePath="/etc/alternatives/x-cursor-theme" afterPath="/etc/alternatives/x-cursor-theme" />
+      <change type="MODIFICATION" beforePath="/etc/init.d/x11-common" afterPath="/etc/init.d/x11-common" />
+      <change type="MODIFICATION" beforePath="/etc/alternatives/x86_64-linux-gnu_gl_conf" afterPath="/etc/alternatives/x86_64-linux-gnu_gl_conf" />
+    </list>
+    <ignored path="FactoryBlogKata.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="FactoryBlogKata" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Pizza.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PizzaOrderingSystem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PizzaOrderingSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3255814">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding>
+                <element signature="e#76#77#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PizzaOrderDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PizzaOrderDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheesePizza.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CheesePizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpicyPineapple.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SpicyPineapple.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="/" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Sandwich.java" />
+        <option value="$PROJECT_DIR$/src/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/CheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/SpicyPineapple.java" />
+        <option value="$PROJECT_DIR$/src/PizzaDelivery.java" />
+        <option value="$PROJECT_DIR$/src/OnlineOrderPortal.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderingSystem.java" />
+        <option value="$PROJECT_DIR$/src/PizzaOrderDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="742" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FactoryBlogKata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FactoryBlogKata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FactoryBlogKata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FactoryBlogKata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FactoryBlogKata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FactoryBlogKata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FactoryBlogKata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PizzaOrderingSystem.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.PizzaOrderDemo">
+    <configuration default="false" name="PizzaOrderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="PizzaOrderDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FactoryBlogKata" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.PizzaOrderDemo" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.PizzaOrderDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53e82407-2a91-425b-8e34-5741def81295" name="Default" comment="" />
+      <created>1449474099125</created>
+      <option name="number" value="Default" />
+      <updated>1449474099125</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="0" width="1374" height="742" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33009708" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpicyPineapple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpicyPineapple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///etc/NetworkManager/NetworkManager.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaOrderingSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3255814">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
